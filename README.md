@@ -8,6 +8,8 @@
 - ⚡ Fun fact: love watching movies, and BBall.
 - All my projects are available at [My Projects](https://chibuezecodes.netlify.app/)
 
-connect with me 
+  🚀Languages and Tools:
+   Html, CSS, JavaScript, React, Python & Java,....
 
-[Twitter](https://twitter.com/leo_codes0), [Instagram](https://www.instagram.com/leo__codes/)
+  📫connect with me 
+  [Twitter](https://twitter.com/leo_codes0),[Instagram](https://www.instagram.com/leo__codes/)
