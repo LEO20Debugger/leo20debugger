@@ -6,7 +6,8 @@
 - 💬 Ask me about Anything.
 - 📫 How to reach me: leonard6oba@gmail.com
 - ⚡ Fun fact: love watching movies, and BBall.
---> All my roects are available at [My Projects](https://chibuezecodes.netlify.app/)
+- All my projects are available at [My Projects](https://chibuezecodes.netlify.app/)
 
 connect with me 
+
 [Twitter](https://twitter.com/leo_codes0), [Instagram](https://www.instagram.com/leo__codes/)
